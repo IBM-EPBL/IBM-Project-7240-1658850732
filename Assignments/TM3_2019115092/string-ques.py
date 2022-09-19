@@ -1,7 +1,7 @@
 str = "shagithiya"
 
 #concatinate strings
-print(str+" Kumar")
+print(str+" subramani")
 
 #reverse the string
 print(str[::-1])
