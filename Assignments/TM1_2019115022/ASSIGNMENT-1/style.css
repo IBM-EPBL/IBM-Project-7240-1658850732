@@ -1,0 +1,87 @@
+* {
+top: 0;
+box-sizing: border-box;
+}
+body{
+background-color: rgb(210,218,255);
+font-family: "calibri", "Courier New", monospace;
+}
+.main{
+margin: 50px 100px 0px 100px;
+}
+.boxs{
+display: flex;
+}
+
+img{
+}
+width: 170px;
+margin: 55px;
+.names{
+margin: 50px;
+}
+span{
+font-size: 20px;
+}
+progress{
+width: 200px;
+height: 25px;
+}
+#line {
+border-left: 2px solid rgb(0, 0, 0);
+height: 200px;
+position: absolute;
+margin-top: 335px;
+margin-left: 300px;
+}
+.bars{
+display: flex;
+}
+form{
+font-size: 20px;
+margin-left: 100px;
+margin-top: 50px;
+margin-bottom: 30px
+}
+#name {
+height: 30px;
+border: none;
+outline: none;
+border-radius: 10px;
+padding: 10px;
+width: 350px;
+margin-right: 50px;
+margin-left: 40px;
+margin-bottom: 30px;
+}
+#email {
+height: 30px;
+border: none;
+outline: none;
+border-radius: 10px;
+padding: 10px;
+width: 350px;
+margin-right: 50px;
+margin-left: 40px;
+margin-bottom: 30px;
+}
+#num{
+border: none;
+outline: none;
+border-radius: 10px;
+padding: 10px;
+width: 350px
+margin-right: 50px;
+margin-left: 40px;
+margin-bottom: 0px;
+}
+#btn{
+border: none;
+outline: none;
+border-radius: 10px;
+padding: 15px 40px;
+font-size: 20px;
+color: blue;
+background-color: #D0D5F7;
+margin: 30px 0px 0px 120px
+}
