@@ -15,7 +15,7 @@ SHAGITHIYA S
 RAHUL R
 
 
-INTRODUCTION:
+Introduction:
 
 The WHO has declared the outbreak of the novel coronavirus, COVID-19 
 as pandemic across the world. With its alarming surge of affected cases throughout the world, 
